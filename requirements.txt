@@ -1,3 +1,4 @@
 opencv-python
 matplotlib
 pyqt6
+scipy

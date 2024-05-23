@@ -1,0 +1,29 @@
+Simulacion Nº1:
+        Resistencia: 0.240734 Ohm
+        Temperatura inicial del agua: 4.506033ºC
+        Temperatura inicial del ambiente: 12.376262ºC
+        Voltaje: 13.171359
+
+Simulacion Nº2:
+        Resistencia: 0.220506 Ohm
+        Temperatura inicial del agua: 6.614496ºC
+        Temperatura inicial del ambiente: 4.791784ºC
+        Voltaje: 14.012108
+
+Simulacion Nº3:
+        Resistencia: 0.217068 Ohm
+        Temperatura inicial del agua: 6.246537ºC
+        Temperatura inicial del ambiente: 30.198110ºC
+        Voltaje: 9.900224
+
+Simulacion Nº4:
+        Resistencia: 0.222599 Ohm
+        Temperatura inicial del agua: 18.684301ºC
+        Temperatura inicial del ambiente: 49.029283ºC
+        Voltaje: 4.968996
+
+Simulacion Nº5:
+        Resistencia: 0.219733 Ohm
+        Temperatura inicial del agua: 15.004712ºC
+        Temperatura inicial del ambiente: 17.630298ºC
+        Voltaje: 24.356405
