@@ -1,4 +1,4 @@
-#!/home/marcos/Documents/FacultadUM/5to/mys/bin/python3
+#!/home/marcos/mys/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
