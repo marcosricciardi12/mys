@@ -5,8 +5,8 @@ import os
 import math
 
 
-# os.environ["XDG_SESSION_TYPE"] = "wayland"
-# os.environ["QT_QPA_PLATFORM"] = "wayland"
+os.environ["XDG_SESSION_TYPE"] = "wayland"
+os.environ["QT_QPA_PLATFORM"] = "wayland"
 
 # # # TP 1-4
 
